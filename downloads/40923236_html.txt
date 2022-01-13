@@ -1,0 +1,10 @@
+<h3>40923236</h3>
+<p>1.<span>CAD繪圖範例:</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Co5dNE5eQxc"></iframe></p>
+<p>2.<span>零件轉檔至stl:</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/LYhTMBHsBR4"></iframe></p>
+<p>3.<span>藍色軸旋轉:</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Zyl8pDeKZ0c"></iframe></p>
+<p>4.連桿轉動:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xpI7amxRsAQ"></iframe></p>
+
